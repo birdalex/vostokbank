@@ -1,0 +1,49 @@
+.footer{
+  height: 205px;
+  padding-top: 65px;
+  padding-bottom: 70px;
+  background-color: #004997;
+  &-tel{
+      width: 174px;
+      font-size: 16px;
+      color: #ffffff;
+      &__sub{
+        display: block;
+          width: 174px;
+          font-size: 10.1px;
+          color: #f2f4f8;
+      }
+  }
+  &-block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+  }
+  &-solial-link {
+ 
+    width: 210px;
+    display: flex;
+    justify-content: space-between;
+    a{
+        
+        width: 22px;
+        height: 22px;
+        border-radius: 50%;
+        background-color: #326cdd;
+        color: #fff;
+        padding: 5px;
+        transition: .3s;
+        
+    }
+    
+  }
+  &-license{
+      width: 360px;
+      height: 28px;
+      font-size: 11px;
+      line-height: 1.27;
+      text-align: right;
+      color: #aac8ee;
+  }
+}

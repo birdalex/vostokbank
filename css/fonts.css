@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Plumb-Bold";
+  src: url("../fonts/Plumb-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Plumb-Light";
+  src: url("../fonts/Plumb-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Plumb-Medium";
+  src: url("../fonts/Plumb-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Plumb-Regular";
+  src: url("../fonts/Plumb-Regular.woff") format("woff");
+}
+/*# sourceMappingURL=fonts.css.map */

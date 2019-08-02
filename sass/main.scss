@@ -1,0 +1,21 @@
+
+@import"resetCss";
+@import"fontello";
+@import "fonts";
+@import "interface";
+@import "_header";
+@import "main-slider";
+@import "advantage";
+@import "project";
+@import "services";
+@import "form";
+@import "app";
+@import "footer";
+
+body {
+  // max-width: 1800px;
+  min-width: 320px;
+  font-family: "Plumb-Regular";
+ 
+}
+
